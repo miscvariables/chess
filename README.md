@@ -24,3 +24,5 @@ https://play.google.com/store/apps/details?id=com.fimetech.chessfimee&hl=zh&gl=U
 2021/05/03：战术手册上册：1-60
 
 2021/05/10：练习上课讲的几种残局
+
+2021/06/08:  通过观察总结的一些问题，具体见training.pdf
