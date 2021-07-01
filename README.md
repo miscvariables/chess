@@ -27,4 +27,4 @@ https://play.google.com/store/apps/details?id=com.fimetech.chessfimee&hl=zh&gl=U
 
 2021/06/08:  通过观察总结的一些问题，具体见training.pdf
 
-2021/07/01:  www.pathchess.com上线，这是一个通过算法分析走法优劣的应用。用MinMax算法给出每一步所有走法的打分，通过比较自己的走法和算法给出的走法的评分来学习
+2021/07/01:  www.pathchess.com 上线，这是一个通过算法分析走法优劣的应用。用MinMax算法给出每一步所有走法的打分，通过比较自己的走法和算法给出的走法的评分来学习
